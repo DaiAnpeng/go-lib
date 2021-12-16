@@ -1,6 +1,6 @@
-package common
+package help
 
-import "github/DaiAnpeng/go-lib/common"
+import "github.com/DaiAnpeng/go-lib/common"
 
 func SayHello() {
 	common.SayHello()
